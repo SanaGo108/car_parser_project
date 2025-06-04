@@ -1,0 +1,832 @@
+[
+  {
+    "Марка": "Без названия",
+    "Цена": "6 390 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x2_2.0_amt_2024_4729924982?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "5 700 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x1_2.0_amt_2024_7423952600?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "9 490 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x4_2.0_at_2024_7257084165?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "24 500 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x6_m_4.4_at_2025_7279981798?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "16 065 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x5_3.0_at_2024_7390139802?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "7 300 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x1_2.0_amt_2025_7353621086?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "9 870 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x3_2.0_at_2024_7390449717?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "6 950 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x3_2.0_at_2024_4447209754?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "5 700 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x1_2.0_amt_2024_7423974202?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "6 300 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x2_2.0_amt_2024_7262771708?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "6 493 500 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x3_2.0_at_2025_7423049067?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "9 750 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_5_seriya_2.0_at_2024_7258015168?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "6 125 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x2_2.0_amt_2024_7423152195?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "5 450 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x1_2.0_amt_2024_7390074603?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "8 200 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x4_2.0_at_2024_7257526994?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "6 200 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x1_2.0_amt_2024_7389330019?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "6 200 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x2_2.0_amt_2024_4730220699?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "5 900 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x1_2.0_amt_2024_7262988953?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "21 000 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_m5_4.4_at_2024_4793997906?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "6 200 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x2_2.0_amt_2024_7385074536?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "21 300 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_m5_4.4_at_2024_4591498889?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "16 970 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x7_3.0_at_2024_4719726566?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "6 200 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x1_2.0_amt_2024_7390495967?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "16 970 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x7_3.0_at_2024_4688261590?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "20 877 100 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_7_seriya_3.0_at_2024_7387922700?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "6 050 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x1_2.0_amt_2025_7417174474?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "24 574 900 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x5_m_4.4_at_2024_4672741342?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "8 000 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x3_2.0_at_2025_7385963603?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "5 827 500 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x1_2.0_amt_2025_7423186334?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "25 576 700 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x6_m_4.4_at_2023_4507793284?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "8 390 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x7_3.0_at_2020_65_456_km_7414976697?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "16 177 500 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x6_3.0_at_2024_4348209183?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "5 700 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x1_2.0_amt_2024_7423041688?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "8 900 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x3_2.0_at_2025_7385993744?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "7 400 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x3_2.0_at_2025_7417996698?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "6 284 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x2_2.0_amt_2025_7391919411?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "21 900 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_m5_4.4_at_2025_7343103234?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "9 150 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x4_2.0_at_2024_4825685096?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "17 450 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x5_3.0_at_2024_7257690844?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "22 500 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_m5_4.4_at_2024_7230034602?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "15 000 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x5_3.0_at_2023_4656137259?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "16 750 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x5_3.0_at_2024_4729775234?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "6 499 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_ix_at_2022_63_890_km_7341956456?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "7 900 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x4_2.0_at_2024_7321698691?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "6 600 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x2_2.0_amt_2024_7262209680?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "7 950 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x3_2.0_at_2025_7353314486?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "6 125 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x2_2.0_amt_2024_7423262580?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "8 300 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x3_2.0_at_2025_7389088318?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "10 150 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x4_2.0_at_2024_5004000169?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "9 150 000 ₽",
+    "Ссылка": "https://www.avito.ru/moskva/avtomobili/bmw_x4_2.0_at_2024_7417108257?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJ5b1ZPZXRKelBPSlo1TDV0Ijt90Ky88z8AAAA"
+  },
+  {
+    "Марка": "BMW 5 серии Long 530Li xDrive VIII (G60/G61/G68)",
+    "Цена": "7 920 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/5er/1128326121-aebc265a/"
+  },
+  {
+    "Марка": "BMW 5 серии 530i xDrive VII (G30/G31) Рестайлинг",
+    "Цена": "4 313 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/5er/1128331643-2b30532e/"
+  },
+  {
+    "Марка": "BMW X1 Long 20Li sDrive II (F48) Рестайлинг",
+    "Цена": "1 790 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/x1/1128368618-abfda9c6/"
+  },
+  {
+    "Марка": "BMW X1 18i sDrive II (F48) Рестайлинг",
+    "Цена": "1 500 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/x1/1128367015-95801636/"
+  },
+  {
+    "Марка": "BMW X5 50e IV (G05/G18) Рестайлинг",
+    "Цена": "9 800 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/x5/1128367578-0d2ac509/"
+  },
+  {
+    "Марка": "BMW X4 M Competition I (F98) Рестайлинг",
+    "Цена": "7 000 147 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/x4_m/1128369042-7f54d748/"
+  },
+  {
+    "Марка": "BMW X1 Long 25Li sDrive II (F48) Рестайлинг",
+    "Цена": "1 995 441 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/x1/1128367733-573c525f/"
+  },
+  {
+    "Марка": "BMW X1 18i sDrive II (F48) Рестайлинг",
+    "Цена": "1 800 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/x1/1128367153-0a25564c/"
+  },
+  {
+    "Марка": "BMW 5 серии 520d VII (G30/G31) Рестайлинг",
+    "Цена": "3 295 167 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/5er/1128368410-ba95bb20/"
+  },
+  {
+    "Марка": "BMW X6 40i III (G06)",
+    "Цена": "6 290 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/x6/1128356587-01d6a852/"
+  },
+  {
+    "Марка": "BMW 4 серии 420i G22, G23, G26",
+    "Цена": "4 321 334 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/4/1128365309-403897cd/"
+  },
+  {
+    "Марка": "BMW X7 30d I (G07)",
+    "Цена": "7 000 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/x7/1128366131-8a75d2a2/"
+  },
+  {
+    "Марка": "BMW X7 40d I (G07)",
+    "Цена": "6 995 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/x7/1128357032-3b5ee5ad/"
+  },
+  {
+    "Марка": "BMW X5 3.0i I (E53) Рестайлинг",
+    "Цена": "530 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/x5/1128368902-c48cfca1/"
+  },
+  {
+    "Марка": "BMW X7 40i I (G07)",
+    "Цена": "6 600 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/x7/1128367158-547811b2/"
+  },
+  {
+    "Марка": "BMW X3 30i xDrive III (G01) Рестайлинг",
+    "Цена": "4 100 035 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/x3/1128366299-dfa085f4/"
+  },
+  {
+    "Марка": "BMW 5 серии 520i VII (G30/G31)",
+    "Цена": "2 630 013 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/5er/1128368348-3b554f2f/"
+  },
+  {
+    "Марка": "BMW X3 20d xDrive III (G01) Рестайлинг",
+    "Цена": "4 200 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/x3/1128329010-a842b554/"
+  },
+  {
+    "Марка": "BMW 3 серии 320i VII (G2x) Рестайлинг 2",
+    "Цена": "5 600 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/3er/1128365209-8f14ef7d/"
+  },
+  {
+    "Марка": "BMW 3 серии 320i VII (G2x) Рестайлинг 2",
+    "Цена": "5 150 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/3er/1128365204-91c5104d/"
+  },
+  {
+    "Марка": "BMW 1 серии 120i III (F52) Рестайлинг",
+    "Цена": "1 500 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/1er/1128366976-6e595557/"
+  },
+  {
+    "Марка": "BMW 5 серии 530i xDrive VII (G30/G31) Рестайлинг",
+    "Цена": "4 032 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/5er/1128366037-a46a6918/"
+  },
+  {
+    "Марка": "BMW 3 серии 320i VII (G2x) Рестайлинг 2",
+    "Цена": "5 200 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/3er/1128365220-b87ea16e/"
+  },
+  {
+    "Марка": "BMW 5 серии 530i xDrive VII (G30/G31) Рестайлинг",
+    "Цена": "3 984 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/5er/1128366024-4124eb31/"
+  },
+  {
+    "Марка": "BMW 5 серии 540d xDrive VIII (G60/G61/G68)",
+    "Цена": "10 390 014 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/5er/1128368928-8e46c924/"
+  },
+  {
+    "Марка": "BMW X7 40i I (G07) Рестайлинг",
+    "Цена": "8 740 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/x7/1128367544-e6e4b13c/"
+  },
+  {
+    "Марка": "BMW iX3 I (G08) Рестайлинг",
+    "Цена": "3 420 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/ix3/1128367759-e08d8356/"
+  },
+  {
+    "Марка": "BMW X4 M Competition I (F98)",
+    "Цена": "5 410 077 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/x4_m/1128338353-3602aa2a/"
+  },
+  {
+    "Марка": "BMW X3 Long 30L xDrive IV (G45/G48)",
+    "Цена": "5 490 099 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/x3/1128365318-f6a6de80/"
+  },
+  {
+    "Марка": "BMW iX3 I (G08) Рестайлинг",
+    "Цена": "3 020 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/ix3/1128367684-9928272e/"
+  },
+  {
+    "Марка": "BMW X3 M Competition I (F97) Рестайлинг",
+    "Цена": "4 600 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/x3_m/1128368586-3215cb4b/"
+  },
+  {
+    "Марка": "BMW 3 серии 320i xDrive VI (F3x)",
+    "Цена": "1 785 000 ₽",
+    "Ссылка": "https://auto.ru/cars/used/sale/bmw/3er/1128368943-cfc21337/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/rate_car/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://my.drom.ru/sign?return=https%3A%2F%2Fauto.drom.ru%2Fbmw%2F%3Ftcb%3D1748941772"
+  },
+  {
+    "Марка": "Москва 6-Series Gran Turismo",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/6-series_gran_turismo/478300004.html"
+  },
+  {
+    "Марка": "Одинцово X7, 2020",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/odintsovo/bmw/x7/354309090.html"
+  },
+  {
+    "Марка": "Москва X5, 2014",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/x5/225120104.html"
+  },
+  {
+    "Марка": "Москва 5-Series, 2018",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/5-series/847667924.html"
+  },
+  {
+    "Марка": "Москва 5-Series, 2013",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/5-series/323034007.html"
+  },
+  {
+    "Марка": "Москва X4, 2023",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/x4/782499856.html"
+  },
+  {
+    "Марка": "Москва 3-Series, 2020",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/3-series/478550475.html"
+  },
+  {
+    "Марка": "Москва 5-Series, 2020",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/5-series/825422444.html"
+  },
+  {
+    "Марка": "Москва X5, 2020",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/x5/441649121.html"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/cities/bmw/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/1-series/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/2-series/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/2-series_active_tourer/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/3-series/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/3-series_gran_turismo/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/4-series/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/5-series/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/5-series_gran_turismo/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/6-series/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/6-series_gran_turismo/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/7-series/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/m5/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/x1/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/x2/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/x3/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/x4/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/x5/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/x6/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/x7/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/2-series_gran_tourer/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/321/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/326/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/340/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/8-series/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/e3/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/i3/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/i4/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/i5/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/i7/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/i8/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/ix/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/ix1/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/ix3/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/m2/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/m3/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/m4/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/m6/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/m8/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/xm/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/z1/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/z3/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/z4/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/all/#tabs"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/bmw/?grouping=1#tabs"
+  },
+  {
+    "Марка": "Лифтбек BMW 5-Series Gran Turismo 2009 года, 1400000 рублей, Москва",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/5-series_gran_turismo/637456720.html"
+  },
+  {
+    "Марка": "Седан BMW 3-Series 2021 года, 3300000 рублей, Москва",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/3-series/708830412.html"
+  },
+  {
+    "Марка": "SUV или внедорожник BMW X4 2024 года, 10990000 рублей, Москва",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/x4/889036236.html"
+  },
+  {
+    "Марка": "SUV или внедорожник BMW X7 2019 года, 7100000 рублей, Москва",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/x7/219762912.html"
+  },
+  {
+    "Марка": "SUV или внедорожник BMW X7 2021 года, 12900000 рублей, Москва",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/x7/591777483.html"
+  },
+  {
+    "Марка": "SUV или внедорожник BMW X6 2019 года, 4050000 рублей, Москва",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/x6/542395086.html"
+  },
+  {
+    "Марка": "SUV или внедорожник BMW X5 2019 года, 6000000 рублей, Москва",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/x5/683888316.html"
+  },
+  {
+    "Марка": "SUV или внедорожник BMW X3 2019 года, 5980000 рублей, Москва",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/x3/374369244.html"
+  },
+  {
+    "Марка": "Седан BMW 7-Series 2022 года, 18999999 рублей, Москва",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/7-series/309842476.html"
+  },
+  {
+    "Марка": "Седан BMW 5-Series 2019 года, 4480000 рублей, Москва",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/5-series/439590342.html"
+  },
+  {
+    "Марка": "SUV или внедорожник BMW X4 2019 года, 4650000 рублей, Москва",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/x4/573984142.html"
+  },
+  {
+    "Марка": "SUV или внедорожник BMW X2 2024 года, 5800000 рублей, Москва",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/x2/239195175.html"
+  },
+  {
+    "Марка": "Седан BMW 3-Series 2012 года, 2050000 рублей, Москва",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/3-series/341240434.html"
+  },
+  {
+    "Марка": "SUV или внедорожник BMW X5 2020 года, 9300000 рублей, Москва",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/x5/194651800.html"
+  },
+  {
+    "Марка": "Седан BMW 3-Series 2021 года, 4500000 рублей, Москва",
+    "Цена": "",
+    "Ссылка": "https://auto.drom.ru/moscow/bmw/3-series/153059016.html"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "Цена не указана",
+    "Ссылка": "https://auto.drom.ru/bmw/all/page2/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "Цена не указана",
+    "Ссылка": "https://auto.drom.ru/bmw/all/page3/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "Цена не указана",
+    "Ссылка": "https://auto.drom.ru/bmw/all/page4/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "Цена не указана",
+    "Ссылка": "https://auto.drom.ru/bmw/all/page5/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "Цена не указана",
+    "Ссылка": "https://auto.drom.ru/bmw/all/page6/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "Цена не указана",
+    "Ссылка": "https://auto.drom.ru/bmw/all/page7/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "Цена не указана",
+    "Ссылка": "https://auto.drom.ru/bmw/all/page8/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "Цена не указана",
+    "Ссылка": "https://auto.drom.ru/bmw/all/page9/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "Цена не указана",
+    "Ссылка": "https://auto.drom.ru/bmw/all/page10/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "Цена не указана",
+    "Ссылка": "https://auto.drom.ru/bmw/?whereabouts[]=2"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "Цена не указана",
+    "Ссылка": "https://auto.drom.ru/bmw/new/"
+  },
+  {
+    "Марка": "Без названия",
+    "Цена": "Цена не указана",
+    "Ссылка": "https://auto.drom.ru/bmw/used/"
+  }
+]

@@ -20,7 +20,7 @@ def parse_avito(marka):
 
         # Попробуем извлечь цену
         price = item.find_next('span', {'class': 'price-text-1Wr3W'})  # Цена после ссылки
-        price = price.text.strip() if price else 'Цена не указана'
+        price = price.text.strip() if price else ''  # Оставляем пустое значение, если цены нет
 
         cars.append({
             'Марка': title,
